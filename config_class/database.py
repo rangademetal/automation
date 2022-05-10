@@ -1,4 +1,3 @@
-from calendar import c
 import mysql.connector
 import json
 
